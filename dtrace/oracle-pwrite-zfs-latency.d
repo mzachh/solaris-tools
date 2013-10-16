@@ -127,7 +127,7 @@ syscall::pwrite:return
   self->zio_wait = 0;
   self->zio_wait_startts = 0;
   self->zio_wait_endts = 0;
-  self->pool_name = "";
+  self->pool_name = 0;
 }
  
   
