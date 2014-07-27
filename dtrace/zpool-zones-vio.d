@@ -6,7 +6,7 @@
  *
  * The scipt sums up all write and read I/O per zpool and per zone.
  *
- * Details: http://blog.zach.st/2013/10/zpool-zones-viod-zfs-statistics-per-zpool-and-per-zone.html
+ * Details: http://blog.zach.st/2013/10/14/zpool-zones-viod---zfs-statistics-per-zpool-and-per-zone.html
  * 
  * Usage: ./zpool-zones-vio.d <interval>
  *        ./zpool-zones-vio.d 10s
