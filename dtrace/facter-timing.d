@@ -4,7 +4,7 @@
  *
  * The script measures the execution time of commands called by Puppet's facter.
  *
- * Details: http://blog.zach.st/2014/07/25/troubleshoot-slow-puppet-facter-runs.html
+ * Details: http://blog.zach.st/2014/07/27/troubleshoot-slow-puppet-facter-runs.html
  * 
  * Usage: ./facter-timing.d -c '/usr/local/bin/facter --timing'
  *
