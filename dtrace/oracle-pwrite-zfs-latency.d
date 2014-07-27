@@ -11,7 +11,7 @@
  * This script was inspired by the V$KERNEL_IO_OUTLIER view of Oracle 12c and
  * the kernel_io_oulier.d script.
  *
- * Details: http://blog.zach.st/2013/10/detect-slow-sync-writes-on-ZFS.html
+ * Details: http://blog.zach.st/2013/10/04/oracle-pwrite-zfs-latencyd-detect-slow-sync-writes-on-zfs.html
  * 
  * Usage: ./oracle-pwrite-zfs-latency.d
  *        ./oracle-pwrite-zfs-latency.d | egrep "TIMESTAMP|---------|lgwr"
