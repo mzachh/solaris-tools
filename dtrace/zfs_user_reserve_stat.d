@@ -5,7 +5,7 @@
  * Shows statistics of ZFS ARC and the user_reserve_hint_pct kernel parameter.
  *
  *
- * Details: http://blog.zach.st/2014/08/02/dynamically-control-the-size-of-the-zfs-arc-cache.html
+ * Details: http://blog.zach.st/2014/08/02/control-the-size-of-the-zfs-arc-cache-dynamically.html
  *
  * Usage: ./zfs_user_reserve_stat.d <interval in sec>
  *        ./zfs_user_reserve_stat.d 10
